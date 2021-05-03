@@ -1,0 +1,1 @@
+two instance of one thread class + naming a thread
